@@ -2,7 +2,7 @@ package vm
 
 import(
 	. "regex/oplist"
-	"queue"
+	"regex/vm/queue"
 )
 
 func ThompsonVM(input string, instructions []Instruct) bool {

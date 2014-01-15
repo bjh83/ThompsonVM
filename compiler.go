@@ -1,11 +1,11 @@
-package regex
+package main
 
 import(
-	"lexer"
-	"parser"
-	"oplist"
-	"preprocessor"
-	"vm"
+	"regex/lexer"
+	"regex/parser"
+	"regex/oplist"
+	"regex/preprocessor"
+	"regex/vm"
 	"fmt"
 )
 
