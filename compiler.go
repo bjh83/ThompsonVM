@@ -1,11 +1,11 @@
 package regex
 
 import(
-	"./lexer"
-	"./parser"
-	"./oplist"
-	"./preprocessor"
-	"./vm"
+	"lexer"
+	"parser"
+	"oplist"
+	"preprocessor"
+	"vm"
 	"fmt"
 )
 

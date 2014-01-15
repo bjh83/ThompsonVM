@@ -1,8 +1,8 @@
 package vm
 
 import(
-	. "../oplist"
-	"./queue"
+	. "regex/oplist"
+	"queue"
 )
 
 func ThompsonVM(input string, instructions []Instruct) bool {

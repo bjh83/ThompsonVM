@@ -1,7 +1,7 @@
 package preprocessor
 
 import(
-	. "../lexer"
+	. "regex/lexer"
 	. "container/list"
 	"fmt"
 )

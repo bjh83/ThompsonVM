@@ -2,7 +2,7 @@ package parser
 
 import(
 	"fmt"
-	. "../lexer"
+	. "regex/lexer"
 )
 
 func Parse(regex []int) (bool, *Start) {

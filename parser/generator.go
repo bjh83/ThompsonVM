@@ -1,8 +1,8 @@
 package parser
 
 import(
-	"../oplist"
-	. "../lexer"
+	"regex/oplist"
+	. "regex/lexer"
 )
 
 func (start *Start) Generate() *oplist.OpList {
